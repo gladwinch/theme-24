@@ -381,13 +381,13 @@
   width: 2rem;
 }
 
-.ct-postion {
+/* .ct-postion {
   transform: translateX(-1rem) translateY(0.9rem);
 }
 
 .ct-btn-icon {
   transform: translateX(-0.5rem)
-}
+} */
 
 
 
